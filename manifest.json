@@ -1,0 +1,14 @@
+{
+    "name": "Frase do dia (em inglês)",
+    "version": "1.0.0",
+    "description": "Frases motivacionais (ou apenas frases) para seguir o dia. Baseado na Advice Slip JSON API.",
+    "manifest_version": 3,
+    "author": "Cynthia Jardim",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Frase do dia"
+    },
+    "icons":{
+        "50":"./app/images/logo-extensao.png"
+    }
+}
